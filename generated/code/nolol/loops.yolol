@@ -1,0 +1,7 @@
+:out=""
+ifb>5thengoto7end
+ifc>5thengoto6end ifc==0orb==0orc==5orb==5then:out+="X"goto5end
+:out+="0"
+c++goto3
+c=0b++:out+="\n"goto2
+:done=1goto1

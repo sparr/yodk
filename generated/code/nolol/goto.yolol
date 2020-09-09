@@ -1,0 +1,7 @@
+:out="a"goto3
+:out+="c"goto4
+:out+="b"goto2
+:out+="d"goto5ifnot0thengoto6end
+:out+="e"goto6
+:out+="f"goto7:out="skip this"
+:done=1goto1

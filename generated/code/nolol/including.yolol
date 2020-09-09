@@ -1,0 +1,3 @@
+:hello="hello "
+ifb++>=10thengoto3end:hello+="."goto2
+:hello+=" daniel":done=1goto1

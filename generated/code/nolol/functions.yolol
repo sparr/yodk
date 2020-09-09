@@ -1,0 +1,2 @@
+a++:timeok=a:absok=abs-5==abs5ifabs-2==abs2then:absinifok=1end
+a++:sqrtok=sqrt16==4:done=1goto1

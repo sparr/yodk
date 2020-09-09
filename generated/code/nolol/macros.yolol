@@ -1,0 +1,5 @@
+:out1="Hello"
+ifb++>=5thengoto3end:out1+="."goto2
+:out1+="world":out2="Hello"
+ifc++>=5thengoto5end:out2+="_"goto4
+:out2+="you"d="foo":out3=e:out4=d:done=1goto1
